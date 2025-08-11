@@ -1,9 +1,14 @@
 Uploader 
 ========
-
+This project conatin 2 types of uploader of files 
+! s3 uploader and 
+! normal file uploader
+Part 1 
+======
 Project contain following part:
 1. upload and save file in s3 
 2. download the required file 
 
 
-projeject part
+Project part 2
+==============
