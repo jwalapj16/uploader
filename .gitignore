@@ -13,3 +13,7 @@ env/
 # IDE files
 .vscode/
 .idea/ 
+
+uploads/
+
+.github
